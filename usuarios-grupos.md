@@ -35,3 +35,8 @@ Cambia los permisos de `dir3` para que:
 - El propietario tenga permisos completos.
 - El grupo tenga permisos de lectura y escritura.
 - Otros usuarios no tengan ningún permiso.
+
+## Material Entregable:
+Documento en formato PDF o Markdown donde expliquen:
+Qué hicieron en cada paso.
+El propósito de cada comando utilizado.
