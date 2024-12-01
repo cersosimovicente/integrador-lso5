@@ -50,5 +50,8 @@ Encuentra todas las líneas del archivo `/var/log/syslog` que contengan la palab
 
 ---
 
-
+## Material Entregable:
+Documento en formato PDF o Markdown donde expliquen:
+Qué hicieron en cada paso.
+El propósito de cada comando utilizado.
 
