@@ -1,0 +1,34 @@
+# Ejercicios de Administración de Dispositivos de Almacenamiento en Linux
+
+## Ejercicio 1: Montar un dispositivo USB manualmente
+
+**Enunciado:**  
+Conecta un dispositivo USB y móntalo manualmente en el sistema. Verifica que esté montado, lista su contenido y desmóntalo.
+
+---
+
+## Ejercicio 2: Formatear un dispositivo a ext4
+
+**Enunciado:**  
+Formatea un dispositivo USB a ext4. Asegúrate de desmontarlo antes de formatearlo.
+
+---
+
+## Ejercicio 3: Empaquetar y comprimir con tar y gzip
+
+**Enunciado:**  
+Crea un directorio con archivos, empaquétalo usando tar y comprímelo con gzip.
+
+---
+
+## Ejercicio 4: Descomprimir un archivo tar.bz2
+
+**Enunciado:**  
+Descarga un archivo comprimido en formato tar.bz2 y extráelo en el directorio actual.
+
+---
+
+## Ejercicio 5: Comprimir usando tar.xz
+
+**Enunciado:**  
+Crea un archivo comprimido en formato tar.xz con un directorio existente.
